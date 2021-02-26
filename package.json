@@ -1,0 +1,28 @@
+{
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "main": "script.js",
+  "dependencies": {
+    "node-sass": "^4.14.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "^4.0.3",
+    "react-use-timeout": "^1.0.0",
+    "src": "^1.1.2",
+    "zustand": "^3.3.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel <your entry file>",
+    "build": "parcel build index.html",
+    "start": "parcel index.html --open",
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
