@@ -3,7 +3,7 @@ ___________
 
 Wecome ***Kelian*** and/or ***Emily*** to my masterpiece! :bowtie:
 
-Please find the **cookie clicker project link** [here] (https://aurorevanhoorebeke.github.io/restaurant).
+Please find the **cookie clicker project link** [here]: (https://mattiepops.github.io/cookie_clicker/).
 
 
 ### Reason for this project:
